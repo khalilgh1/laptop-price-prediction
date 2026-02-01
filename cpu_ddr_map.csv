@@ -1,0 +1,824 @@
+cpu_name,ddr_type,release_year,notes
+AMD 3015e,DDR4,2020,Zen+ APU laptop
+AMD 3020e,DDR4,2020,Zen+ APU laptop
+AMD A10 Micro-6700T APU,DDR3,2014,Mullins tablet APU
+AMD A10 PRO-7350B APU,DDR3,2014,Kaveri PRO APU
+AMD A10 PRO-7850B APU,DDR3,2014,Kaveri PRO APU
+AMD A10-9600P,DDR4,2016,Bristol Ridge APU
+AMD A10-9620P,DDR4,2016,Bristol Ridge APU
+AMD A12-9700P,DDR4,2016,Bristol Ridge APU
+AMD A12-9720P,DDR4,2016,Bristol Ridge APU
+AMD A4 Micro-6400T APU,DDR3,2014,Mullins tablet APU
+AMD A4-1200 APU,DDR3,2013,Temash APU
+AMD A4-1250 APU,DDR3,2013,Temash APU
+AMD A4-3300M APU,DDR3,2011,Llano APU
+AMD A4-4300M APU,DDR3,2012,Trinity APU
+AMD A4-9125,DDR4,2018,Stoney Ridge APU
+AMD A6 Micro-6500T APU,DDR3,2014,Mullins tablet APU
+AMD A6-1450 APU,DDR3,2013,Temash APU
+AMD A6-6310 APU,DDR3,2014,Beema APU
+AMD A6-7310 APU,DDR3,2015,Carrizo-L APU
+AMD A6-9220,DDR4,2017,Stoney Ridge APU
+AMD A6-9225,DDR4,2018,Stoney Ridge APU
+AMD A8 PRO-7150B APU,DDR3,2014,Kaveri PRO APU
+AMD A8-3500M APU,DDR3,2011,Llano APU
+AMD A8-4500M APU,DDR3,2012,Trinity APU
+AMD A8-6410 APU,DDR3,2014,Beema APU
+AMD A8-7100 APU,DDR3,2014,Kaveri APU
+AMD A8-7410 APU,DDR3,2015,Carrizo-L APU
+AMD A9-9400,DDR4,2016,Bristol Ridge APU
+AMD A9-9420,DDR4,2017,Stoney Ridge APU
+AMD A9-9425,DDR4,2018,Stoney Ridge APU
+AMD Athlon 1500+,DDR,2002,K7 Athlon XP
+AMD Athlon Gold 3150U,DDR4,2020,Zen+ APU
+AMD Athlon II X4 620,DDR3,2009,K10 desktop
+AMD Athlon Silver 3050U,DDR4,2020,Zen+ APU
+AMD Athlon Silver 7120U,DDR5,2022,Mendocino APU
+AMD E-450 APU,DDR3,2011,Zacate APU
+AMD E1-1200 APU,DDR3,2012,Zacate APU
+AMD E1-1500 APU,DDR3,2012,Zacate APU
+AMD E1-2100 APU,DDR3,2013,Kabini APU
+AMD E1-2500 APU,DDR3,2013,Kabini APU
+AMD E1-6010 APU,DDR3,2014,Beema APU
+AMD E1-7010 APU,DDR3,2015,Carrizo-L APU
+AMD E2-3000M APU,DDR3,2012,Llano APU
+AMD E2-7015,DDR4,2017,Stoney Ridge APU
+AMD E2-7110 APU,DDR3,2015,Carrizo-L APU
+AMD E2-9000e,DDR4,2017,Stoney Ridge APU
+AMD FX-6100 Six-Core,DDR3,2011,Bulldozer desktop
+AMD PRO A10-8700B,DDR3,2015,Carrizo PRO APU
+AMD PRO A10-8730B,DDR4,2016,Bristol Ridge PRO
+AMD PRO A12-8830B,DDR4,2016,Bristol Ridge PRO
+AMD PRO A4-8350B,DDR3,2015,Carrizo PRO APU
+AMD PRO A6-8530B,DDR4,2016,Bristol Ridge PRO
+AMD PRO A8-8600B,DDR3,2015,Carrizo PRO APU
+AMD PRO A8-9600B,DDR4,2016,Bristol Ridge PRO
+AMD Ryzen 3 1200,DDR4,2017,Zen desktop
+AMD Ryzen 3 2200U,DDR4,2018,Zen+ mobile
+AMD Ryzen 3 2300U,DDR4,2018,Zen+ mobile
+AMD Ryzen 3 3200G,DDR4,2019,Zen+ APU
+AMD Ryzen 3 3200U,DDR4,2019,Zen+ mobile
+AMD Ryzen 3 3250U,DDR4,2020,Zen+ mobile
+AMD Ryzen 3 3300U,DDR4,2019,Zen+ mobile
+AMD Ryzen 3 3350U,DDR4,2021,Zen+ mobile
+AMD Ryzen 3 4300U,DDR4,2020,Zen2 mobile
+AMD Ryzen 3 5300G,DDR4,2021,Zen3 APU
+AMD Ryzen 3 5300U,DDR4,2021,Zen2 mobile
+AMD Ryzen 3 5400U,DDR4,2021,Zen2 mobile
+AMD Ryzen 3 5425U,DDR4,2022,Zen3 mobile
+AMD Ryzen 3 7320U,DDR5,2022,Mendocino mobile
+AMD Ryzen 3 7330U,DDR4,2023,Zen3 mobile refresh
+AMD Ryzen 3 7440U,DDR5,2023,Zen4 mobile
+AMD Ryzen 3 PRO 1300,DDR4,2017,Zen desktop PRO
+AMD Ryzen 3 PRO 2300U,DDR4,2018,Zen+ mobile PRO
+AMD Ryzen 3 PRO 3200G,DDR4,2019,Zen+ APU PRO
+AMD Ryzen 3 PRO 3300U,DDR4,2019,Zen+ mobile PRO
+AMD Ryzen 3 PRO 4450U,DDR4,2020,Zen2 mobile PRO
+AMD Ryzen 3 PRO 5450U,DDR4,2021,Zen2 mobile PRO
+AMD Ryzen 5 1400,DDR4,2017,Zen desktop
+AMD Ryzen 5 1600X,DDR4,2017,Zen desktop
+AMD Ryzen 5 2400G,DDR4,2018,Zen+ APU
+AMD Ryzen 5 2500U,DDR4,2017,Zen mobile
+AMD Ryzen 5 2600,DDR4,2018,Zen+ desktop
+AMD Ryzen 5 3400G,DDR4,2019,Zen+ APU
+AMD Ryzen 5 3450U,DDR4,2019,Zen+ mobile
+AMD Ryzen 5 3500,DDR4,2019,Zen2 desktop
+AMD Ryzen 5 3500U,DDR4,2019,Zen+ mobile
+AMD Ryzen 5 3500X,DDR4,2019,Zen2 desktop
+AMD Ryzen 5 3550H,DDR4,2019,Zen+ mobile H
+AMD Ryzen 5 3600,DDR4,2019,Zen2 desktop
+AMD Ryzen 5 4500,DDR4,2022,Zen2 desktop
+AMD Ryzen 5 4500U,DDR4,2020,Zen2 mobile
+AMD Ryzen 5 4600H,DDR4,2020,Zen2 mobile H
+AMD Ryzen 5 4600U,DDR4,2020,Zen2 mobile
+AMD Ryzen 5 5500,DDR4,2022,Zen3 desktop
+AMD Ryzen 5 5500H,DDR4,2021,Zen3 mobile H
+AMD Ryzen 5 5500U,DDR4,2021,Zen2 mobile
+AMD Ryzen 5 5560U,DDR4,2021,Zen3 mobile
+AMD Ryzen 5 5600,DDR4,2022,Zen3 desktop
+AMD Ryzen 5 5600G,DDR4,2021,Zen3 APU
+AMD Ryzen 5 5600H,DDR4,2021,Zen3 mobile H
+AMD Ryzen 5 5600U,DDR4,2021,Zen3 mobile
+AMD Ryzen 5 5625U,DDR4,2022,Zen3 mobile
+AMD Ryzen 5 6600H,DDR5,2022,Zen3+ mobile H
+AMD Ryzen 5 6600U,DDR5,2022,Zen3+ mobile
+AMD Ryzen 5 7400,DDR5,2024,Zen4 desktop
+AMD Ryzen 5 7430U,DDR4,2023,Zen3 mobile refresh
+AMD Ryzen 5 7500F,DDR5,2023,Zen4 desktop
+AMD Ryzen 5 7520U,DDR5,2022,Mendocino mobile
+AMD Ryzen 5 7530U,DDR4,2023,Zen3 mobile refresh
+AMD Ryzen 5 7535H,DDR5,2023,Zen3+ mobile H
+AMD Ryzen 5 7535HS,DDR5,2023,Zen3+ mobile HS
+AMD Ryzen 5 7535U,DDR5,2023,Zen3+ mobile
+AMD Ryzen 5 7540U,DDR5,2023,Zen4 mobile
+AMD Ryzen 5 7600X,DDR5,2022,Zen4 desktop
+AMD Ryzen 5 7640HS,DDR5,2023,Zen4 mobile HS
+AMD Ryzen 5 7645HX,DDR5,2023,Zen4 mobile HX
+AMD Ryzen 5 PRO 3500U,DDR4,2019,Zen+ mobile PRO
+AMD Ryzen 5 PRO 4650G,DDR4,2020,Zen2 APU PRO
+AMD Ryzen 5 PRO 4650U,DDR4,2020,Zen2 mobile PRO
+AMD Ryzen 5 PRO 5650U,DDR4,2021,Zen3 mobile PRO
+AMD Ryzen 5 PRO 5675U,DDR4,2022,Zen3 mobile PRO
+AMD Ryzen 5 PRO 6650U,DDR5,2022,Zen3+ mobile PRO
+AMD Ryzen 5 PRO 7530U,DDR4,2023,Zen3 mobile PRO
+AMD Ryzen 5 PRO 7540U,DDR5,2023,Zen4 mobile PRO
+AMD Ryzen 5 Pro 7535U,DDR5,2023,Zen3+ mobile PRO
+AMD Ryzen 7 1700,DDR4,2017,Zen desktop
+AMD Ryzen 7 250,DDR4,2019,Unknown variant
+AMD Ryzen 7 2700U,DDR4,2018,Zen+ mobile
+AMD Ryzen 7 3700U,DDR4,2019,Zen+ mobile
+AMD Ryzen 7 3750H,DDR4,2019,Zen+ mobile H
+AMD Ryzen 7 4700U,DDR4,2020,Zen2 mobile
+AMD Ryzen 7 4800H,DDR4,2020,Zen2 mobile H
+AMD Ryzen 7 4800HS,DDR4,2020,Zen2 mobile HS
+AMD Ryzen 7 4980U Microsoft Surface Edition,DDR4,2020,Zen2 Surface
+AMD Ryzen 7 5700U,DDR4,2021,Zen2 mobile
+AMD Ryzen 7 5800H,DDR4,2021,Zen3 mobile H
+AMD Ryzen 7 5800HS,DDR4,2021,Zen3 mobile HS
+AMD Ryzen 7 5800U,DDR4,2021,Zen3 mobile
+AMD Ryzen 7 5800X,DDR4,2020,Zen3 desktop
+AMD Ryzen 7 5825U,DDR4,2022,Zen3 mobile
+AMD Ryzen 7 6800H,DDR5,2022,Zen3+ mobile H
+AMD Ryzen 7 6800HS,DDR5,2022,Zen3+ mobile HS
+AMD Ryzen 7 6800U,DDR5,2022,Zen3+ mobile
+AMD Ryzen 7 7445HS,DDR5,2024,Zen4 mobile HS
+AMD Ryzen 7 7730U,DDR4,2023,Zen3 mobile refresh
+AMD Ryzen 7 7735H,DDR5,2023,Zen3+ mobile H
+AMD Ryzen 7 7735HS,DDR5,2023,Zen3+ mobile HS
+AMD Ryzen 7 7735U,DDR5,2023,Zen3+ mobile
+AMD Ryzen 7 7745HX,DDR5,2023,Zen4 mobile HX
+AMD Ryzen 7 7840H,DDR5,2023,Zen4 mobile H
+AMD Ryzen 7 7840HS,DDR5,2023,Zen4 mobile HS
+AMD Ryzen 7 7840U,DDR5,2023,Zen4 mobile
+AMD Ryzen 7 8745H,DDR5,2024,Zen4 mobile H
+AMD Ryzen 7 Extreme Edition,DDR4,2020,Zen2 custom
+AMD Ryzen 7 PRO 1700,DDR4,2017,Zen desktop PRO
+AMD Ryzen 7 PRO 3700,DDR4,2019,Zen+ desktop PRO
+AMD Ryzen 7 PRO 4750GE,DDR4,2020,Zen2 APU PRO
+AMD Ryzen 7 PRO 4750U,DDR4,2020,Zen2 mobile PRO
+AMD Ryzen 7 PRO 5850U,DDR4,2021,Zen3 mobile PRO
+AMD Ryzen 7 PRO 5875U,DDR4,2022,Zen3 mobile PRO
+AMD Ryzen 7 PRO 6850HS,DDR5,2022,Zen3+ mobile PRO
+AMD Ryzen 7 PRO 6850U,DDR5,2022,Zen3+ mobile PRO
+AMD Ryzen 7 PRO 7840U,DDR5,2023,Zen4 mobile PRO
+AMD Ryzen 7 PRO 8840H,DDR5,2024,Zen4 mobile PRO
+AMD Ryzen 7 Pro 7735U,DDR5,2023,Zen3+ mobile PRO
+AMD Ryzen 9 3900,DDR4,2019,Zen2 desktop
+AMD Ryzen 9 4900H,DDR4,2020,Zen2 mobile H
+AMD Ryzen 9 4900HS,DDR4,2020,Zen2 mobile HS
+AMD Ryzen 9 5900,DDR4,2022,Zen3 desktop
+AMD Ryzen 9 5900H,DDR4,2021,Zen3 mobile H
+AMD Ryzen 9 5900HS,DDR4,2021,Zen3 mobile HS
+AMD Ryzen 9 5900HX,DDR4,2021,Zen3 mobile HX
+AMD Ryzen 9 5980HX,DDR4,2021,Zen3 mobile HX
+AMD Ryzen 9 6900HS,DDR5,2022,Zen3+ mobile HS
+AMD Ryzen 9 6900HX,DDR5,2022,Zen3+ mobile HX
+AMD Ryzen 9 7845HX,DDR5,2023,Zen4 mobile HX
+AMD Ryzen 9 7940H,DDR5,2023,Zen4 mobile H
+AMD Ryzen 9 7940HS,DDR5,2023,Zen4 mobile HS
+AMD Ryzen 9 7945HX,DDR5,2023,Zen4 mobile HX
+AMD Ryzen 9 8945HX,DDR5,2024,Zen4 mobile HX
+AMD Ryzen 9 9950X,DDR5,2024,Zen5 desktop
+AMD Ryzen 9 PRO 6950HS,DDR5,2022,Zen3+ mobile PRO
+AMD Ryzen AI 7 350,DDR5,2024,Zen4 AI mobile
+AMD Ryzen AI 9 H 365,DDR5,2024,Zen4 AI mobile
+AMD Ryzen AI 9 HX 470,DDR5,2024,Zen5 AI mobile
+AMD Sempron 3100+,DDR,2004,K8 Sempron
+AMD Sempron LE-1300,DDR2,2008,K8 Sempron
+AMD Turion X2 Dual Core L510,DDR2,2008,K8 Turion
+AMD V120,DDR3,2010,K10 mobile
+Apple M1 Ultra 20 Core,Unified,2022,Apple Silicon
+Apple M2 Max 12 Core 3680 MHz,Unified,2023,Apple Silicon
+Apple M2 Pro 12 Core 3480 MHz,Unified,2023,Apple Silicon
+Intel 300,DDR5,2024,Alder Lake budget
+Intel Atom 230,DDR2,2008,Diamondville
+Intel Atom 330,DDR2,2008,Diamondville
+Intel Atom D410,DDR2,2010,Pineview
+Intel Atom N2600,DDR3,2011,Cedarview
+Intel Atom N270,DDR2,2008,Diamondville
+Intel Atom N450,DDR2,2010,Pineview
+Intel Atom N455,DDR2,2010,Pineview
+Intel Atom N570,DDR3,2011,Pineview
+Intel Atom Z3735E,DDR3L,2014,Bay Trail
+Intel Atom Z3735F,DDR3L,2014,Bay Trail
+Intel Atom Z3740,DDR3L,2013,Bay Trail
+Intel Atom Z3795,DDR3L,2014,Bay Trail
+Intel Atom Z520,DDR2,2008,Silverthorne
+Intel Atom x5-E8000,DDR3L,2016,Cherry Trail
+Intel Atom x5-Z8330,DDR3L,2016,Cherry Trail
+Intel Atom x5-Z8350,DDR3L,2016,Cherry Trail
+Intel Atom x5-Z8500,DDR3L,2015,Cherry Trail
+Intel Celeron,DDR3,2010,Generic Celeron
+Intel Celeron 420,DDR2,2007,Conroe-L
+Intel Core 3 100U,DDR5,2024,Raptor Lake refresh
+Intel Core 5 120,DDR5,2024,Raptor Lake refresh
+Intel Core 7 150U,DDR5,2024,Raptor Lake refresh
+Intel Core 7 250H,DDR5,2025,Arrow Lake
+Intel Core Duo L2300,DDR2,2006,Yonah
+Intel Core Duo T2050,DDR2,2006,Yonah
+Intel Core Duo T2500,DDR2,2006,Yonah
+Intel Core M-5Y71,DDR3L,2014,Broadwell-Y
+Intel Core Ultra 5 115U,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 5 125H,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 5 125U,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 5 134U,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 5 135H,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 5 135U,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 5 225,LPDDR5X,2025,Lunar Lake
+Intel Core Ultra 5 235U,LPDDR5X,2025,Lunar Lake
+Intel Core Ultra 7 155H,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 7 155U,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 7 164U,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 7 165H,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 7 165U,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 7 255HX,LPDDR5X,2025,Arrow Lake
+Intel Core Ultra 7 256V,LPDDR5X,2024,Lunar Lake
+Intel Core Ultra 7 258V,LPDDR5X,2024,Lunar Lake
+Intel Core Ultra 7 265,LPDDR5X,2025,Lunar Lake
+Intel Core Ultra 7 265H,LPDDR5X,2025,Lunar Lake
+Intel Core Ultra 7 266V,LPDDR5X,2024,Lunar Lake
+Intel Core Ultra 9 185H,LPDDR5X,2024,Meteor Lake
+Intel Core Ultra 9 275HX,LPDDR5X,2025,Arrow Lake
+Intel Core Ultra 9 285HX,LPDDR5X,2025,Arrow Lake
+Intel Core i3-1000NG4,LPDDR4X,2020,Ice Lake MacBook
+Intel Core i3-1005G1,DDR4,2019,Ice Lake
+Intel Core i3-10100T,DDR4,2020,Comet Lake
+Intel Core i3-10110U,DDR4,2019,Comet Lake
+Intel Core i3-1025G1,DDR4,2020,Ice Lake
+Intel Core i3-11100B,DDR4,2021,Tiger Lake B
+Intel Core i3-1115G4,DDR4,2020,Tiger Lake
+Intel Core i3-1125G4,DDR4,2021,Tiger Lake
+Intel Core i3-1210U,DDR4,2022,Alder Lake
+Intel Core i3-1215U,DDR4,2022,Alder Lake
+Intel Core i3-1220P,DDR5,2022,Alder Lake P
+Intel Core i3-1305U,DDR5,2023,Raptor Lake
+Intel Core i3-1315U,DDR5,2023,Raptor Lake
+Intel Core i3-2100,DDR3,2011,Sandy Bridge
+Intel Core i3-2100T,DDR3,2011,Sandy Bridge
+Intel Core i3-2120,DDR3,2011,Sandy Bridge
+Intel Core i3-2120T,DDR3,2011,Sandy Bridge
+Intel Core i3-2125,DDR3,2011,Sandy Bridge
+Intel Core i3-2130,DDR3,2012,Sandy Bridge
+Intel Core i3-2310E,DDR3,2011,Sandy Bridge
+Intel Core i3-2310M,DDR3,2011,Sandy Bridge
+Intel Core i3-2312M,DDR3,2011,Sandy Bridge
+Intel Core i3-2328M,DDR3,2012,Sandy Bridge
+Intel Core i3-2330M,DDR3,2011,Sandy Bridge
+Intel Core i3-2348M,DDR3,2012,Sandy Bridge
+Intel Core i3-2350M,DDR3,2011,Sandy Bridge
+Intel Core i3-2365M,DDR3,2012,Sandy Bridge
+Intel Core i3-2370M,DDR3,2012,Sandy Bridge
+Intel Core i3-2375M,DDR3,2013,Sandy Bridge
+Intel Core i3-3110M,DDR3,2012,Ivy Bridge
+Intel Core i3-3120M,DDR3,2012,Ivy Bridge
+Intel Core i3-3130M,DDR3,2013,Ivy Bridge
+Intel Core i3-3217U,DDR3,2012,Ivy Bridge
+Intel Core i3-3220,DDR3,2012,Ivy Bridge
+Intel Core i3-3250,DDR3,2013,Ivy Bridge
+Intel Core i3-3250T,DDR3,2013,Ivy Bridge
+Intel Core i3-330E,DDR3,2010,Arrandale
+Intel Core i3-330M,DDR3,2010,Arrandale
+Intel Core i3-350M,DDR3,2010,Arrandale
+Intel Core i3-370M,DDR3,2010,Arrandale
+Intel Core i3-380M,DDR3,2010,Arrandale
+Intel Core i3-4000M,DDR3,2013,Haswell
+Intel Core i3-4005U,DDR3,2013,Haswell
+Intel Core i3-4010U,DDR3,2013,Haswell
+Intel Core i3-4030U,DDR3,2014,Haswell
+Intel Core i3-4100M,DDR3,2013,Haswell
+Intel Core i3-4130T,DDR3,2013,Haswell
+Intel Core i3-4158U,DDR3,2013,Haswell
+Intel Core i3-4170,DDR3,2015,Haswell
+Intel Core i3-4330TE,DDR3,2013,Haswell
+Intel Core i3-4340,DDR3,2014,Haswell
+Intel Core i3-5005U,DDR3L,2015,Broadwell
+Intel Core i3-5010U,DDR3L,2015,Broadwell
+Intel Core i3-5020U,DDR3L,2015,Broadwell
+Intel Core i3-540,DDR3,2010,Clarkdale
+Intel Core i3-6006U,DDR4,2016,Skylake
+Intel Core i3-6100,DDR4,2015,Skylake
+Intel Core i3-6100H,DDR4,2015,Skylake
+Intel Core i3-6100TE,DDR4,2015,Skylake
+Intel Core i3-6100U,DDR4,2015,Skylake
+Intel Core i3-6300,DDR4,2015,Skylake
+Intel Core i3-7020U,DDR4,2017,Kaby Lake
+Intel Core i3-7100,DDR4,2017,Kaby Lake
+Intel Core i3-7100U,DDR4,2016,Kaby Lake
+Intel Core i3-7101TE,DDR4,2017,Kaby Lake
+Intel Core i3-7130U,DDR4,2017,Kaby Lake
+Intel Core i3-7300,DDR4,2017,Kaby Lake
+Intel Core i3-8100,DDR4,2018,Coffee Lake
+Intel Core i3-8100B,DDR4,2018,Coffee Lake
+Intel Core i3-8100T,DDR4,2018,Coffee Lake
+Intel Core i3-8109U,DDR4,2018,Coffee Lake
+Intel Core i3-8130U,DDR4,2018,Kaby Lake R
+Intel Core i3-8145U,DDR4,2018,Whiskey Lake
+Intel Core i3-8300,DDR4,2018,Coffee Lake
+Intel Core i3-9100TE,DDR4,2019,Coffee Lake R
+Intel Core i3-N300,DDR5,2023,Alder Lake-N
+Intel Core i5 750S,DDR3,2009,Lynnfield
+Intel Core i5 E 520,DDR3,2010,Arrandale
+Intel Core i5-10200H,DDR4,2020,Comet Lake
+Intel Core i5-10210U,DDR4,2019,Comet Lake
+Intel Core i5-10210Y,LPDDR3,2019,Amber Lake
+Intel Core i5-1030NG7,LPDDR4X,2020,Ice Lake MacBook
+Intel Core i5-10310U,DDR4,2020,Comet Lake
+Intel Core i5-1035G1,DDR4,2019,Ice Lake
+Intel Core i5-1035G4,DDR4,2019,Ice Lake
+Intel Core i5-1035G7,LPDDR4X,2019,Ice Lake
+Intel Core i5-1038NG7,LPDDR4X,2020,Ice Lake MacBook
+Intel Core i5-10400,DDR4,2020,Comet Lake
+Intel Core i5-10400F,DDR4,2020,Comet Lake
+Intel Core i5-10400H,DDR4,2020,Comet Lake
+Intel Core i5-10500H,DDR4,2020,Comet Lake
+Intel Core i5-11260H,DDR4,2021,Tiger Lake
+Intel Core i5-11300H,DDR4,2021,Tiger Lake
+Intel Core i5-1130G7,DDR4,2021,Tiger Lake
+Intel Core i5-11320H,DDR4,2021,Tiger Lake
+Intel Core i5-1135G7,DDR4,2020,Tiger Lake
+Intel Core i5-11400F,DDR4,2021,Rocket Lake
+Intel Core i5-11400H,DDR4,2021,Tiger Lake
+Intel Core i5-1145G7,DDR4,2020,Tiger Lake
+Intel Core i5-11500H,DDR4,2021,Tiger Lake
+Intel Core i5-1155G7,DDR4,2021,Tiger Lake
+Intel Core i5-1230U,DDR4,2022,Alder Lake
+Intel Core i5-12400T,DDR5,2022,Alder Lake
+Intel Core i5-1240P,DDR5,2022,Alder Lake P
+Intel Core i5-1240U,DDR4,2022,Alder Lake
+Intel Core i5-12450H,DDR5,2022,Alder Lake
+Intel Core i5-12450HX,DDR5,2022,Alder Lake HX
+Intel Core i5-12500,DDR5,2022,Alder Lake
+Intel Core i5-12500H,DDR5,2022,Alder Lake
+Intel Core i5-12500T,DDR5,2022,Alder Lake
+Intel Core i5-1250P,DDR5,2022,Alder Lake P
+Intel Core i5-1334U,DDR5,2023,Raptor Lake
+Intel Core i5-1335U,DDR5,2023,Raptor Lake
+Intel Core i5-13400T,DDR5,2023,Raptor Lake
+Intel Core i5-1340P,DDR5,2023,Raptor Lake P
+Intel Core i5-13420H,DDR5,2023,Raptor Lake
+Intel Core i5-13450HX,DDR5,2023,Raptor Lake HX
+Intel Core i5-1345U,DDR5,2023,Raptor Lake
+Intel Core i5-13500H,DDR5,2023,Raptor Lake
+Intel Core i5-13500HX,DDR5,2023,Raptor Lake HX
+Intel Core i5-1350P,DDR5,2023,Raptor Lake P
+Intel Core i5-13600,DDR5,2023,Raptor Lake
+Intel Core i5-13600H,DDR5,2023,Raptor Lake
+Intel Core i5-13600HX,DDR5,2023,Raptor Lake HX
+Intel Core i5-13600K,DDR5,2022,Raptor Lake
+Intel Core i5-14400,DDR5,2024,Raptor Lake R
+Intel Core i5-14500,DDR5,2024,Raptor Lake R
+Intel Core i5-14600KF,DDR5,2023,Raptor Lake R
+Intel Core i5-2300,DDR3,2011,Sandy Bridge
+Intel Core i5-2310,DDR3,2011,Sandy Bridge
+Intel Core i5-2320,DDR3,2011,Sandy Bridge
+Intel Core i5-2400,DDR3,2011,Sandy Bridge
+Intel Core i5-2415M,DDR3,2011,Sandy Bridge
+Intel Core i5-2430M,DDR3,2011,Sandy Bridge
+Intel Core i5-2450M,DDR3,2012,Sandy Bridge
+Intel Core i5-2450P,DDR3,2012,Sandy Bridge
+Intel Core i5-2467M,DDR3,2011,Sandy Bridge
+Intel Core i5-2500,DDR3,2011,Sandy Bridge
+Intel Core i5-2500K,DDR3,2011,Sandy Bridge
+Intel Core i5-2500T,DDR3,2011,Sandy Bridge
+Intel Core i5-2515E,DDR3,2011,Sandy Bridge
+Intel Core i5-2520M,DDR3,2011,Sandy Bridge
+Intel Core i5-2540M,DDR3,2011,Sandy Bridge
+Intel Core i5-3210M,DDR3,2012,Ivy Bridge
+Intel Core i5-3230M,DDR3,2013,Ivy Bridge
+Intel Core i5-3317U,DDR3,2012,Ivy Bridge
+Intel Core i5-3320M,DDR3,2012,Ivy Bridge
+Intel Core i5-3337U,DDR3,2013,Ivy Bridge
+Intel Core i5-3340M,DDR3,2013,Ivy Bridge
+Intel Core i5-3360M,DDR3,2012,Ivy Bridge
+Intel Core i5-4200H,DDR3,2013,Haswell
+Intel Core i5-4200M,DDR3,2013,Haswell
+Intel Core i5-4200U,DDR3,2013,Haswell
+Intel Core i5-4210H,DDR3,2014,Haswell
+Intel Core i5-4210M,DDR3,2014,Haswell
+Intel Core i5-4210U,DDR3,2014,Haswell
+Intel Core i5-4250U,DDR3,2013,Haswell
+Intel Core i5-4260U,DDR3,2014,Haswell
+Intel Core i5-4278U,DDR3,2014,Haswell
+Intel Core i5-4288U,DDR3,2013,Haswell
+Intel Core i5-4300M,DDR3,2013,Haswell
+Intel Core i5-4300U,DDR3,2013,Haswell
+Intel Core i5-430M,DDR3,2010,Arrandale
+Intel Core i5-4310M,DDR3,2014,Haswell
+Intel Core i5-4310U,DDR3,2014,Haswell
+Intel Core i5-4330M,DDR3,2013,Haswell
+Intel Core i5-4350U,DDR3,2013,Haswell
+Intel Core i5-4430S,DDR3,2013,Haswell
+Intel Core i5-4570R,DDR3,2013,Haswell
+Intel Core i5-4570TE,DDR3,2013,Haswell
+Intel Core i5-4590,DDR3,2014,Haswell
+Intel Core i5-460M,DDR3,2010,Arrandale
+Intel Core i5-480M,DDR3,2011,Arrandale
+Intel Core i5-5200U,DDR3L,2015,Broadwell
+Intel Core i5-520M,DDR3,2010,Arrandale
+Intel Core i5-5250U,DDR3L,2015,Broadwell
+Intel Core i5-5257U,DDR3L,2015,Broadwell
+Intel Core i5-5287U,DDR3L,2015,Broadwell
+Intel Core i5-5300U,DDR3L,2015,Broadwell
+Intel Core i5-5350U,DDR3L,2015,Broadwell
+Intel Core i5-540M,DDR3,2010,Arrandale
+Intel Core i5-6198DU,DDR4,2016,Skylake
+Intel Core i5-6200U,DDR4,2015,Skylake
+Intel Core i5-6260U,DDR4,2015,Skylake
+Intel Core i5-6300HQ,DDR4,2015,Skylake
+Intel Core i5-6300U,DDR4,2015,Skylake
+Intel Core i5-6360U,DDR4,2016,Skylake
+Intel Core i5-6400,DDR4,2015,Skylake
+Intel Core i5-6440HQ,DDR4,2015,Skylake
+Intel Core i5-650,DDR3,2010,Clarkdale
+Intel Core i5-6500,DDR4,2015,Skylake
+Intel Core i5-6500T,DDR4,2015,Skylake
+Intel Core i5-6500TE,DDR4,2015,Skylake
+Intel Core i5-6600,DDR4,2015,Skylake
+Intel Core i5-7200U,DDR4,2016,Kaby Lake
+Intel Core i5-7267U,DDR4,2017,Kaby Lake
+Intel Core i5-7300HQ,DDR4,2017,Kaby Lake
+Intel Core i5-7300U,DDR4,2017,Kaby Lake
+Intel Core i5-7360U,DDR4,2017,Kaby Lake
+Intel Core i5-7400,DDR4,2017,Kaby Lake
+Intel Core i5-7400T,DDR4,2017,Kaby Lake
+Intel Core i5-7440HQ,DDR4,2017,Kaby Lake
+Intel Core i5-7500,DDR4,2017,Kaby Lake
+Intel Core i5-7500T,DDR4,2017,Kaby Lake
+Intel Core i5-7600,DDR4,2017,Kaby Lake
+Intel Core i5-7600K,DDR4,2017,Kaby Lake
+Intel Core i5-7Y54,LPDDR3,2016,Kaby Lake Y
+Intel Core i5-8200Y,LPDDR3,2018,Amber Lake
+Intel Core i5-8210Y,LPDDR3,2018,Amber Lake
+Intel Core i5-8250U,DDR4,2017,Kaby Lake R
+Intel Core i5-8257U,DDR4,2019,Coffee Lake
+Intel Core i5-8259U,DDR4,2018,Coffee Lake
+Intel Core i5-8260U,DDR4,2019,Whiskey Lake
+Intel Core i5-8265U,DDR4,2018,Whiskey Lake
+Intel Core i5-8279U,DDR4,2019,Coffee Lake
+Intel Core i5-8300H,DDR4,2018,Coffee Lake
+Intel Core i5-8350U,DDR4,2017,Kaby Lake R
+Intel Core i5-8365U,DDR4,2019,Whiskey Lake
+Intel Core i5-8365UE,DDR4,2019,Whiskey Lake
+Intel Core i5-8400H,DDR4,2018,Coffee Lake
+Intel Core i5-8500T,DDR4,2018,Coffee Lake
+Intel Core i5-8600,DDR4,2018,Coffee Lake
+Intel Core i5-9300H,DDR4,2019,Coffee Lake R
+Intel Core i5-9300HF,DDR4,2019,Coffee Lake R
+Intel Core i5-9400H,DDR4,2019,Coffee Lake R
+Intel Core i5-9500,DDR4,2019,Coffee Lake R
+Intel Core i5-9500T,DDR4,2019,Coffee Lake R
+Intel Core i5-9500TE,DDR4,2019,Coffee Lake R
+Intel Core i5-L16G7,LPDDR4X,2020,Lakefield
+Intel Core i7-10510U,DDR4,2019,Comet Lake
+Intel Core i7-1060NG7,LPDDR4X,2020,Ice Lake MacBook
+Intel Core i7-10610U,DDR4,2020,Comet Lake
+Intel Core i7-1065G7,LPDDR4X,2019,Ice Lake
+Intel Core i7-1068NG7,LPDDR4X,2020,Ice Lake MacBook
+Intel Core i7-10700TE,DDR4,2020,Comet Lake
+Intel Core i7-10710U,DDR4,2019,Comet Lake
+Intel Core i7-10750H,DDR4,2020,Comet Lake
+Intel Core i7-10810U,DDR4,2020,Comet Lake
+Intel Core i7-10850H,DDR4,2020,Comet Lake
+Intel Core i7-10870H,DDR4,2020,Comet Lake
+Intel Core i7-10875H,DDR4,2020,Comet Lake
+Intel Core i7-11370H,DDR4,2021,Tiger Lake
+Intel Core i7-11375H,DDR4,2021,Tiger Lake
+Intel Core i7-11390H,DDR4,2021,Tiger Lake
+Intel Core i7-11600H,DDR4,2021,Tiger Lake
+Intel Core i7-1160G7,DDR4,2020,Tiger Lake
+Intel Core i7-1165G7,DDR4,2020,Tiger Lake
+Intel Core i7-11700,DDR4,2021,Rocket Lake
+Intel Core i7-11700T,DDR4,2021,Rocket Lake
+Intel Core i7-11800H,DDR4,2021,Tiger Lake
+Intel Core i7-1180G7,DDR4,2021,Tiger Lake
+Intel Core i7-11850H,DDR4,2021,Tiger Lake
+Intel Core i7-1185G7,DDR4,2020,Tiger Lake
+Intel Core i7-1195G7,DDR4,2021,Tiger Lake
+Intel Core i7-1250U,DDR4,2022,Alder Lake
+Intel Core i7-1255U,DDR4,2022,Alder Lake
+Intel Core i7-1260P,DDR5,2022,Alder Lake P
+Intel Core i7-1260U,DDR4,2022,Alder Lake
+Intel Core i7-12650H,DDR5,2022,Alder Lake
+Intel Core i7-12700,DDR5,2022,Alder Lake
+Intel Core i7-12700H,DDR5,2022,Alder Lake
+Intel Core i7-1270P,DDR5,2022,Alder Lake P
+Intel Core i7-12800H,DDR5,2022,Alder Lake
+Intel Core i7-12800HX,DDR5,2022,Alder Lake HX
+Intel Core i7-1280P,DDR5,2022,Alder Lake P
+Intel Core i7-12850HX,DDR5,2022,Alder Lake HX
+Intel Core i7-1355U,DDR5,2023,Raptor Lake
+Intel Core i7-1360P,DDR5,2023,Raptor Lake P
+Intel Core i7-13620H,DDR5,2023,Raptor Lake
+Intel Core i7-13650HX,DDR5,2023,Raptor Lake HX
+Intel Core i7-1365U,DDR5,2023,Raptor Lake
+Intel Core i7-13700,DDR5,2023,Raptor Lake
+Intel Core i7-13700H,DDR5,2023,Raptor Lake
+Intel Core i7-13700HX,DDR5,2023,Raptor Lake HX
+Intel Core i7-13700TE,DDR5,2023,Raptor Lake
+Intel Core i7-1370P,DDR5,2023,Raptor Lake P
+Intel Core i7-13800H,DDR5,2023,Raptor Lake
+Intel Core i7-13850HX,DDR5,2023,Raptor Lake HX
+Intel Core i7-14650HX,DDR5,2024,Raptor Lake R
+Intel Core i7-14700,DDR5,2024,Raptor Lake R
+Intel Core i7-14700HX,DDR5,2024,Raptor Lake R
+Intel Core i7-14700T,DDR5,2024,Raptor Lake R
+Intel Core i7-2600S,DDR3,2011,Sandy Bridge
+Intel Core i7-2620M,DDR3,2011,Sandy Bridge
+Intel Core i7-2630QM,DDR3,2011,Sandy Bridge
+Intel Core i7-2637M,DDR3,2011,Sandy Bridge
+Intel Core i7-2670QM,DDR3,2011,Sandy Bridge
+Intel Core i7-2840QM,DDR3,2011,Sandy Bridge
+Intel Core i7-3517UE,DDR3,2012,Ivy Bridge
+Intel Core i7-3520M,DDR3,2012,Ivy Bridge
+Intel Core i7-3537U,DDR3,2013,Ivy Bridge
+Intel Core i7-3610QM,DDR3,2012,Ivy Bridge
+Intel Core i7-3615QM,DDR3,2012,Ivy Bridge
+Intel Core i7-3630QM,DDR3,2012,Ivy Bridge
+Intel Core i7-3632QM,DDR3,2013,Ivy Bridge
+Intel Core i7-3740QM,DDR3,2012,Ivy Bridge
+Intel Core i7-3770T,DDR3,2012,Ivy Bridge
+Intel Core i7-3840QM,DDR3,2013,Ivy Bridge
+Intel Core i7-4500U,DDR3,2013,Haswell
+Intel Core i7-4510U,DDR3,2014,Haswell
+Intel Core i7-4550U,DDR3,2013,Haswell
+Intel Core i7-4560U,DDR3,2014,Haswell
+Intel Core i7-4600M,DDR3,2013,Haswell
+Intel Core i7-4600U,DDR3,2013,Haswell
+Intel Core i7-4650U,DDR3,2013,Haswell
+Intel Core i7-4700HQ,DDR3,2013,Haswell
+Intel Core i7-4702HQ,DDR3,2013,Haswell
+Intel Core i7-4710HQ,DDR3,2014,Haswell
+Intel Core i7-4710MQ,DDR3,2014,Haswell
+Intel Core i7-4712HQ,DDR3,2014,Haswell
+Intel Core i7-4720HQ,DDR3,2015,Haswell
+Intel Core i7-4722HQ,DDR3,2015,Haswell
+Intel Core i7-4750HQ,DDR3,2013,Haswell
+Intel Core i7-4760HQ,DDR3,2014,Haswell
+Intel Core i7-4770HQ,DDR3,2014,Haswell
+Intel Core i7-4770TE,DDR3,2013,Haswell
+Intel Core i7-4785T,DDR3,2014,Haswell
+Intel Core i7-4790K,DDR3,2014,Haswell
+Intel Core i7-4790T,DDR3,2014,Haswell
+Intel Core i7-4800MQ,DDR3,2013,Haswell
+Intel Core i7-4810MQ,DDR3,2014,Haswell
+Intel Core i7-4850HQ,DDR3,2013,Haswell
+Intel Core i7-4870HQ,DDR3,2014,Haswell
+Intel Core i7-4930MX,DDR3,2013,Ivy Bridge-E
+Intel Core i7-4980HQ,DDR3,2014,Haswell
+Intel Core i7-5500U,DDR3L,2015,Broadwell
+Intel Core i7-5557U,DDR3L,2015,Broadwell
+Intel Core i7-5600U,DDR3L,2015,Broadwell
+Intel Core i7-5650U,DDR3L,2015,Broadwell
+Intel Core i7-5700HQ,DDR3L,2015,Broadwell
+Intel Core i7-5775C,DDR3L,2015,Broadwell
+Intel Core i7-5960X,DDR4,2014,Haswell-E
+Intel Core i7-620M,DDR3,2010,Arrandale
+Intel Core i7-6500U,DDR4,2015,Skylake
+Intel Core i7-6560U,DDR4,2016,Skylake
+Intel Core i7-6600U,DDR4,2015,Skylake
+Intel Core i7-6700,DDR4,2015,Skylake
+Intel Core i7-6700HQ,DDR4,2015,Skylake
+Intel Core i7-6700TE,DDR4,2015,Skylake
+Intel Core i7-6770HQ,DDR4,2016,Skylake
+Intel Core i7-6820HQ,DDR4,2015,Skylake
+Intel Core i7-7500U,DDR4,2016,Kaby Lake
+Intel Core i7-7600U,DDR4,2017,Kaby Lake
+Intel Core i7-7660U,DDR4,2017,Kaby Lake
+Intel Core i7-7700,DDR4,2017,Kaby Lake
+Intel Core i7-7700HQ,DDR4,2017,Kaby Lake
+Intel Core i7-7700T,DDR4,2017,Kaby Lake
+Intel Core i7-7820HK,DDR4,2017,Kaby Lake
+Intel Core i7-7820HQ,DDR4,2017,Kaby Lake
+Intel Core i7-7920HQ,DDR4,2017,Kaby Lake
+Intel Core i7-8500Y,LPDDR3,2018,Amber Lake
+Intel Core i7-8550U,DDR4,2017,Kaby Lake R
+Intel Core i7-8565U,DDR4,2018,Whiskey Lake
+Intel Core i7-8569U,DDR4,2019,Coffee Lake
+Intel Core i7-860,DDR3,2009,Lynnfield
+Intel Core i7-8650U,DDR4,2017,Kaby Lake R
+Intel Core i7-8665U,DDR4,2019,Whiskey Lake
+Intel Core i7-8665UE,DDR4,2019,Whiskey Lake
+Intel Core i7-8700,DDR4,2018,Coffee Lake
+Intel Core i7-8709G,DDR4,2018,Kaby Lake G
+Intel Core i7-8750H,DDR4,2018,Coffee Lake
+Intel Core i7-8850H,DDR4,2018,Coffee Lake
+Intel Core i7-920XM,DDR3,2010,Clarksfield
+Intel Core i7-9750H,DDR4,2019,Coffee Lake R
+Intel Core i7-9750HF,DDR4,2019,Coffee Lake R
+Intel Core i7-9850H,DDR4,2019,Coffee Lake R
+Intel Core i9-10850K,DDR4,2020,Comet Lake
+Intel Core i9-10880H,DDR4,2020,Comet Lake
+Intel Core i9-10885H,DDR4,2020,Comet Lake
+Intel Core i9-10900K,DDR4,2020,Comet Lake
+Intel Core i9-11900H,DDR4,2021,Tiger Lake
+Intel Core i9-11950H,DDR4,2021,Tiger Lake
+Intel Core i9-12900H,DDR5,2022,Alder Lake
+Intel Core i9-12900HK,DDR5,2022,Alder Lake
+Intel Core i9-12900HX,DDR5,2022,Alder Lake HX
+Intel Core i9-12950HX,DDR5,2022,Alder Lake HX
+Intel Core i9-13900H,DDR5,2023,Raptor Lake
+Intel Core i9-13900HK,DDR5,2023,Raptor Lake
+Intel Core i9-13900HX,DDR5,2023,Raptor Lake HX
+Intel Core i9-13905H,DDR5,2023,Raptor Lake
+Intel Core i9-13950HX,DDR5,2023,Raptor Lake HX
+Intel Core i9-13980HX,DDR5,2023,Raptor Lake HX
+Intel Core i9-14900HX,DDR5,2024,Raptor Lake R
+Intel Core i9-14900T,DDR5,2024,Raptor Lake R
+Intel Core i9-8950HK,DDR4,2018,Coffee Lake
+Intel Core i9-9880H,DDR4,2019,Coffee Lake R
+Intel Core i9-9900,DDR4,2019,Coffee Lake R
+Intel Core i9-9900K,DDR4,2018,Coffee Lake
+Intel Core i9-9980HK,DDR4,2019,Coffee Lake R
+Intel Core m3-6Y30,LPDDR3,2015,Skylake Y
+Intel Core m3-7Y30,LPDDR3,2016,Kaby Lake Y
+Intel Core2 Duo E4300,DDR2,2007,Conroe
+Intel Core2 Duo E4700,DDR2,2007,Conroe
+Intel Core2 Duo E7500,DDR2,2009,Wolfdale
+Intel Core2 Duo P7350,DDR2,2008,Penryn
+Intel Core2 Duo P8600,DDR2,2008,Penryn
+Intel Core2 Duo SP9400,DDR2,2008,Penryn
+Intel Core2 Duo T5200,DDR2,2006,Merom
+Intel Core2 Duo T5250,DDR2,2007,Merom
+Intel Core2 Duo T5270,DDR2,2008,Merom
+Intel Core2 Duo T5500,DDR2,2006,Merom
+Intel Core2 Duo T5670,DDR2,2008,Merom
+Intel Core2 Duo T5750,DDR2,2007,Merom
+Intel Core2 Duo T6670,DDR2,2009,Penryn
+Intel Core2 Duo T7250,DDR2,2007,Merom
+Intel Core2 Duo T7500,DDR2,2007,Merom
+Intel N95,DDR5,2023,Alder Lake-N
+Intel N97,DDR5,2023,Alder Lake-N
+Intel Pentium 2020M,DDR3,2012,Ivy Bridge
+Intel Pentium 2117U,DDR3,2012,Ivy Bridge
+Intel Pentium 2127U,DDR3,2013,Ivy Bridge
+Intel Pentium 3805U,DDR3L,2015,Broadwell
+Intel Pentium 3825U,DDR3L,2015,Broadwell
+Intel Pentium 4,DDR,2000,Netburst
+Intel Pentium 4405U,DDR4,2015,Skylake
+Intel Pentium 4415U,DDR4,2017,Kaby Lake
+Intel Pentium 4415Y,LPDDR3,2017,Kaby Lake Y
+Intel Pentium 4417U,DDR4,2018,Whiskey Lake
+Intel Pentium 4425Y,LPDDR3,2018,Amber Lake Y
+Intel Pentium 5405U,DDR4,2019,Whiskey Lake
+Intel Pentium 967,DDR3,2012,Sandy Bridge
+Intel Pentium 987,DDR3,2012,Sandy Bridge
+Intel Pentium B950,DDR3,2011,Sandy Bridge
+Intel Pentium B960,DDR3,2011,Sandy Bridge
+Intel Pentium B980,DDR3,2012,Sandy Bridge
+Intel Pentium G4500,DDR4,2015,Skylake
+Intel Pentium Gold 7505,DDR4,2021,Tiger Lake
+Intel Pentium Gold G6500,DDR4,2020,Comet Lake
+Intel Pentium N3510,DDR3L,2013,Bay Trail
+Intel Pentium N3540,DDR3L,2014,Bay Trail
+Intel Pentium N3710,DDR3L,2016,Braswell
+Intel Pentium N4200,DDR3L,2016,Apollo Lake
+Intel Pentium P6000,DDR3,2010,Arrandale
+Intel Pentium P6200,DDR3,2010,Arrandale
+Intel Pentium Silver J5040,DDR4,2019,Gemini Lake R
+Intel Pentium Silver N5000,DDR4,2017,Gemini Lake
+Intel Pentium Silver N5030,DDR4,2019,Gemini Lake R
+Intel Pentium T2370,DDR2,2007,Merom
+Intel Pentium T3400,DDR2,2009,Penryn
+Intel Pentium T4200,DDR2,2009,Penryn
+Intel Pentium T4400,DDR2,2009,Penryn
+Intel Pentium T4500,DDR3,2010,Penryn
+Intel Xeon E-2176M,DDR4,2018,Coffee Lake
+Intel Xeon E-2186M,DDR4,2018,Coffee Lake
+Intel Xeon E-2276M,DDR4,2019,Coffee Lake R
+Intel Xeon W-3175X,DDR4,2018,Skylake-X
+Intel core i5-10300H,DDR4,2020,Comet Lake
+Qualcomm Snapdragon X Elite X1E-78-100,LPDDR5X,2024,Oryon ARM
+Qualcomm Snapdragon X Elite X1E-80-100,LPDDR5X,2024,Oryon ARM
+Qualcomm Snapdragon X Plus X1P-64-100,LPDDR5X,2024,Oryon ARM
+AMD A4-3320M APU,DDR3,2011,Llano APU
+AMD Athlon 220GE,DDR4,2019,Zen APU
+AMD E-350,DDR3,2011,Bobcat APU
+AMD Embedded G-Series GX-215JJ Radeon R2E,DDR3,2014,Embedded APU
+AMD Ryzen 3 210,DDR5,2024,Zen 4 entry
+AMD Ryzen 3 7335U,DDR5,2023,Zen 3+ Rembrandt-R
+AMD Ryzen 5 240,DDR5,2024,Zen 4
+AMD Ryzen 5 2600H,DDR4,2018,Zen+ mobile H
+AMD Ryzen 5 3500C,DDR4,2020,Zen+ Chromebook
+AMD Ryzen 5 40,DDR5,2024,Zen 4
+AMD Ryzen 5 7235HS,DDR5,2023,Zen 3+ Rembrandt
+AMD Ryzen 5 7545U,DDR5,2023,Zen 4 Phoenix
+AMD Ryzen 5 8540U,DDR5,2024,Zen 4 Hawk Point
+AMD Ryzen 5 8640HS,DDR5,2024,Zen 4 Hawk Point
+AMD Ryzen 5 8645HS,DDR5,2024,Zen 4 Hawk Point
+AMD Ryzen 5 PRO 2500U,DDR4,2018,Zen+ PRO mobile
+AMD Ryzen 5 PRO 4500U,DDR4,2020,Zen 2 PRO Renoir
+AMD Ryzen 5 PRO 8540U,DDR5,2024,Zen 4 PRO Hawk Point
+AMD Ryzen 7 3700C,DDR4,2020,Zen+ Chromebook
+AMD Ryzen 7 7435HS,DDR5,2023,Zen 3+ Rembrandt
+AMD Ryzen 7 8840U,DDR5,2024,Zen 4 Hawk Point
+AMD Ryzen 7 8845H,DDR5,2024,Zen 4 Hawk Point
+AMD Ryzen 7 8845HS,DDR5,2024,Zen 4 Hawk Point
+AMD Ryzen 7 PRO 2700U,DDR4,2018,Zen+ PRO mobile
+AMD Ryzen 7 PRO 3700U,DDR4,2019,Zen+ PRO Picasso
+AMD Ryzen 7 PRO 7730U,DDR4,2022,Zen 3+ PRO Barcelo
+AMD Ryzen 7 PRO 7840HS,DDR5,2023,Zen 4 PRO Phoenix
+AMD Ryzen 7 PRO 8840HS,DDR5,2024,Zen 4 PRO Hawk Point
+AMD Ryzen 7 PRO 8840U,DDR5,2024,Zen 4 PRO Hawk Point
+AMD Ryzen 9 7940HX,DDR5,2023,Zen 4 Dragon Range
+AMD Ryzen 9 8945H,DDR5,2024,Zen 4 Hawk Point
+AMD Ryzen 9 8945HS,DDR5,2024,Zen 4 Hawk Point
+AMD Ryzen 9 9955HX,DDR5,2024,Zen 5 Strix Halo
+AMD Ryzen AI 9 HX 370,DDR5,2024,Zen 5 Strix Point
+AMD Sempron M120,DDR2,2008,K8 mobile
+Apple M1 8 Core 3200 MHz,LPDDR4X,2020,Apple Silicon M1
+Apple M1 Max 10 Core 3200 MHz,LPDDR5,2021,Apple Silicon M1 Max
+Apple M1 Pro 10 Core 3200 MHz,LPDDR5,2021,Apple Silicon M1 Pro
+Apple M2 8 Core 3500 MHz,LPDDR5,2022,Apple Silicon M2
+Apple M2 Pro 10 Core 3480 MHz,LPDDR5,2023,Apple Silicon M2 Pro
+Apple M3 8 Core,LPDDR5,2023,Apple Silicon M3
+Apple M3 Max 14 Core,LPDDR5,2023,Apple Silicon M3 Max
+Apple M3 Pro 11 Core,LPDDR5,2023,Apple Silicon M3 Pro
+Apple M4 10 Core,LPDDR5X,2024,Apple Silicon M4
+Apple M4 Max 14 Core,LPDDR5X,2024,Apple Silicon M4 Max
+Apple M4 Pro 12 Core,LPDDR5X,2024,Apple Silicon M4 Pro
+Celeron Dual-Core T3000,DDR2,2008,Merom Celeron
+Celeron Dual-Core T3100,DDR2,2008,Penryn Celeron
+Intel Atom C2338,DDR3,2013,Avoton server
+Intel Atom x5-Z8300,DDR3L,2015,Cherry Trail tablet
+Intel Celeron 2955U,DDR3,2013,Haswell ULT
+Intel Celeron 2957U,DDR3,2013,Haswell ULT
+Intel Celeron 2980U,DDR3,2014,Haswell ULT
+Intel Celeron 3867U,DDR4,2017,Kaby Lake
+Intel Celeron 6305,DDR4,2021,Tiger Lake
+Intel Celeron 7305,DDR4,2022,Alder Lake
+Intel Celeron B815,DDR3,2011,Sandy Bridge mobile
+Intel Celeron B840,DDR3,2012,Sandy Bridge mobile
+Intel Celeron M 900MHz,DDR,2004,Dothan Celeron M
+Intel Celeron N2806,DDR3L,2014,Bay Trail
+Intel Celeron N2830,DDR3L,2014,Bay Trail
+Intel Celeron N2840,DDR3L,2014,Bay Trail
+Intel Celeron N2940,DDR3L,2014,Bay Trail
+Intel Celeron N3000,DDR3L,2015,Braswell
+Intel Celeron N3050,DDR3L,2015,Braswell
+Intel Celeron N3060,DDR3L,2016,Braswell
+Intel Celeron N3150,DDR3L,2015,Braswell
+Intel Celeron N3160,DDR3L,2016,Braswell
+Intel Celeron N3350,DDR3L,2016,Apollo Lake
+Intel Celeron N3450,DDR3L,2016,Apollo Lake
+Intel Celeron N4000,DDR4,2017,Gemini Lake
+Intel Celeron N4020,DDR4,2019,Gemini Lake Refresh
+Intel Celeron N4100,DDR4,2017,Gemini Lake
+Intel Celeron N4120,DDR4,2019,Gemini Lake Refresh
+Intel Celeron N5100,DDR4,2021,Jasper Lake
+Intel Core 5 210H,DDR5,2024,Meteor Lake Core 5
+Intel Core 5 220U,DDR5,2024,Meteor Lake Core 5
+Intel Core Duo L2400,DDR2,2006,Yonah low voltage
+Intel Core Duo T2250,DDR2,2006,Yonah
+Intel Core Duo T2450,DDR2,2006,Yonah
+Intel Core Ultra 7 255U,DDR5,2024,Meteor Lake Ultra
+Intel Core i3-12100TE,DDR4,2022,Alder Lake desktop
+Intel Core i3-2357M,DDR3,2011,Sandy Bridge ULV
+Intel Core i3-9100,DDR4,2019,Coffee Lake desktop
+Intel Core i3-N305,DDR5,2023,Alder Lake-N
+Intel Core i5-1235U,DDR4,2022,Alder Lake U
+Intel Core i5-1245U,DDR4,2022,Alder Lake U
+Intel Core i5-12500TE,DDR4,2022,Alder Lake desktop
+Intel Core i5-12600H,DDR4,2022,Alder Lake H
+Intel Core i5-14500HX,DDR5,2024,Raptor Lake Refresh
+Intel Core i5-2410M,DDR3,2011,Sandy Bridge mobile
+Intel Core i5-3380M,DDR3,2012,Ivy Bridge mobile
+Intel Core i5-4308U,DDR3,2013,Haswell ULT
+Intel Core i5-430UM,DDR3,2010,Arrandale ULV
+Intel Core i5-450M,DDR3,2010,Arrandale
+Intel Core i7-12650HX,DDR5,2022,Alder Lake HX
+Intel Core i7-1265U,DDR4,2022,Alder Lake U
+Intel Core i7-1265UE,DDR4,2022,Alder Lake embedded
+Intel Core i7-12700TE,DDR4,2022,Alder Lake desktop
+Intel Core i7-4610M,DDR3,2014,Haswell mobile
+Intel Core i7-4712MQ,DDR3,2014,Haswell quad mobile
+Intel Core i7-4940MX,DDR3,2014,Haswell Extreme mobile
+Intel Core i7-5850HQ,DDR3,2015,Broadwell HQ
+Intel Core i7-610E,DDR3,2010,Arrandale embedded
+Intel Core i7-640LM,DDR3,2010,Arrandale low voltage
+Intel Core i7-7Y75,DDR3,2016,Kaby Lake Y
+Intel Core i7-940XM,DDR3,2010,Clarksfield Extreme
+Intel Core m3-8100Y,LPDDR3,2018,Amber Lake Y
+Intel Core m5-6Y54,DDR3L,2015,Skylake Y
+Intel Core m7-6Y75,DDR3L,2015,Skylake Y
+Intel Core2 Duo T5870,DDR2,2008,Merom
+Intel Core2 Duo T7700,DDR2,2007,Merom
+Intel N100,DDR4,2023,Alder Lake-N
+Intel N200,DDR5,2023,Alder Lake-N
+Intel Pentium 4410Y,DDR3L,2015,Skylake Y Pentium
+Intel Pentium Gold 8505,DDR5,2023,Raptor Lake Pentium
+Intel Pentium M 1.20GHz,DDR,2003,Banias Pentium M
+Intel Pentium M 1000MHz,DDR,2003,Banias Pentium M
+Intel Pentium M 1400MHz,DDR,2003,Banias Pentium M
+Intel Pentium M 1500MHz,DDR,2004,Dothan Pentium M
+Intel Pentium T3200,DDR2,2008,Penryn Pentium
+Intel Xeon E3-1268L v5,DDR4,2015,Skylake Xeon mobile
+Intel Xeon E3-1505L v6,DDR4,2017,Kaby Lake Xeon mobile
+Intel Xeon E3-1535M v5,DDR4,2015,Skylake Xeon mobile
+Intel Xeon W-10855M,DDR4,2020,Comet Lake Xeon W
+Intel Xeon W-11855M,DDR4,2021,Tiger Lake Xeon W
+Intel Xeon W-11955M,DDR4,2021,Tiger Lake Xeon W
+Qualcomm Snapdragon X Elite - X1E-78-100,LPDDR5X,2024,Snapdragon X Elite
+Qualcomm Snapdragon X Elite - X1E-80-100,LPDDR5X,2024,Snapdragon X Elite
+Snapdragon 835,LPDDR4X,2017,Snapdragon mobile
+Snapdragon X - X126100 - Qualcomm Oryon,LPDDR5X,2024,Snapdragon X
+VIA Nano U2250 (1.6GHz Capable),DDR2,2008,VIA Nano ULV
